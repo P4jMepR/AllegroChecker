@@ -1,0 +1,59 @@
+{
+    "loginsellingplatform": "###@gmail.com",
+    "passwordsellingplatform": "",
+    "game": {
+      "dyinglight2":
+      {
+        "email": "###PL@protonmail.com",
+        "printname": "Dying Light 2",
+        "login": "###PL1",
+        "pass": "",
+        "platform": "Steam"
+      },
+      "justcause3":
+      {
+        "printname": "Just Cause 3",
+        "login": "###PL2137",
+        "pass": "",
+        "platform": "Steam"
+      },
+      "borderlands3":
+      {
+        "printname": "Borderlands 3",
+        "login": "###pl@protonmail.com",
+        "pass": "",
+        "platform": "Epic Games"
+
+      },
+      "readyornot":
+      {
+        "email": "###@protonmail.com",
+        "printname": "READY OR NOT",
+        "login": "####",
+        "pass": "",
+        "platform": "Steam"
+      },
+      "kangoo":
+      {
+        "email": "###Kangoo@proton.me",
+        "printname": "KANGUREK KAO",
+        "login": "###PLKangoo",
+        "pass": "",
+        "platform": "Steam"
+      },
+      "bioshock":
+      {
+        "printname": "BioShock Trylogy",
+        "login": "#####@proton.me",
+        "pass": "",
+        "platform": "Epic Games"
+      },
+      "stray":
+      {
+        "email": "###Stray@proton.me",
+        "printname": "Stray",
+        "login": "###Stray",
+        "pass": "",
+        "platform": "Steam"
+      }
+  }}
